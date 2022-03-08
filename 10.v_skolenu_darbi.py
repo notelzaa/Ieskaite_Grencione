@@ -1,7 +1,7 @@
 #Tatjana Grencione
 
 #1 Burke Elza
-
+print(sin(radians(30)+fmod(13,2)))
 #2 Dundurs Mārcis
 
 #3 Dūrēja Annemarija
